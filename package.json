@@ -20,7 +20,7 @@
     "remark-html": "^15.0.2"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "devDependencies": {
     "@types/node": "20.5.1",
