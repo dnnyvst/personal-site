@@ -36,23 +36,23 @@ strong {
 }
 
 a {
-  color: #ffa7c4;
-  /* color: #5de4c7; */
+  color: #dfa0ae;
+  /* color: #7FBFC2; */
   text-decoration: none;
 }
 
 a:hover {
-  color: #5de4c7;
+  color: #7fbfc2;
   text-decoration: underline;
   font-style: italic;
 }
 
 .greenText {
-  color: #5de4c7;
+  color: #7fbfc2;
 }
 
 hr {
-  border: 1px solid #ffa7c4;
+  border: 1px solid #dfa0ae;
   opacity: 0.3;
 }
 
